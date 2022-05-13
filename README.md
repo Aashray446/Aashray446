@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aashray Katiyar</h1>
-<h3 align="center">A passionate Developer from Nepal</h3>
+<h3 align="center">A Passionate Web Developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashray446&label=Profile%20views&color=0e75b6&style=flat" alt="aashray446" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashray446" alt="aashray446" /></a> </p>
 
-- 🔭 I’m currently working on [Space Toursim Website](https://github.com/Aashray446/Space-Toursim-Website-Challenge)[Vartual (Pocket Tracker)](https://github.com/Aashray446/Vartul)
+- 🔭 I’m currently working on [Space Toursim Website](https://github.com/Aashray446/Space-Toursim-Website-Challenge) [Vartul (Pocket Tracker)](https://github.com/Aashray446/Vartul)
 
 - 🌱 I’m currently learning **Node,Express and K88S**  
 
