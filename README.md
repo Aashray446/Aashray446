@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashray446" alt="aashray446" /></a> </p>
 
-- 🔭 I’m currently working on [Space Toursim Website](https://github.com/Aashray446/Space-Toursim-Website-Challenge) [Vartul (Pocket Tracker)](https://github.com/Aashray446/Vartul)
+- 🔭 I’m currently working on [Vartul (Pocket Tracker)](https://github.com/Aashray446/Vartul)
 
 - 🌱 I’m currently learning **Node,Express and K88S**  
 
