@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashray446" alt="aashray446" /></a> </p>
 
-- 🔭 I’m currently working on [Vartul (Pocket Tracker)](https://github.com/Aashray446/Vartul)
+- 🔭 I’m currently contributing on [Rocket.Chat ](https://github.com/RocketChat)
 
-- 🌱 I’m currently learning **Node,Express and K88S**  
+- 🌱 I’m currently wondering **How to building world class Products**  
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, UX**
 
 - 📫 How to reach me **aashraykatiyar.geek@gmail.com**
 
