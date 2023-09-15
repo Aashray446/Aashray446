@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently contributing on [Rocket.Chat ](https://github.com/RocketChat)
 
-- 🌱 I’m currently wondering **How to building world class Products**  
+- 🌱 I’m currently wondering **How to building world-class Products**  
 
 - 💬 Ask me about **Web Development, UX**
 
 - 📫 How to reach me **aashraykatiyar.geek@gmail.com**
 
-- 📄 Know about my experiences [https://aashray446.github.io/Portfolio/home](https://aashray446.github.io/Portfolio/home)
+- 📄 Know about my experiences [Portfolio](https://aashraykatiyar.vercel.app/)
 
-- Things I love **Develop, Play instruments and Cricket**
+- Things I love **Develop, Play instruments, and Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
