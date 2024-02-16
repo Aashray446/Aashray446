@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aashray Katiyar</h1>
-<h3 align="center">A Passionate Web Developer from Nepal</h3>
+<h3 align="center">An engineer by profession and driven by a passion for problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashray446&label=Profile%20views&color=0e75b6&style=flat" alt="aashray446" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashray446" alt="aashray446" /></a> </p>
 
-- 🔭 I’m currently building Margati
+- 🔭 I’m currently building **Margati**
 
 - 🌱 I’m currently wondering **How to building world-class Products**  
 
-- 💬 Ask me about **Web Development, UX**
+- 💬 Ask me about **Javascript Eco System, RabbitMQ, UX & Software Development**
 
 - 📫 How to reach me **aashraykatiyar.geek@gmail.com**
 
