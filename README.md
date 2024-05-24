@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashray446" alt="aashray446" /></a> </p>
 
-- 🔭 I’m currently building **Margati**
+- 🔭 I’m currently building **[Margati](https://margati.com/)**
 
 - 🌱 I’m currently wondering **How to building world-class Products**  
 
